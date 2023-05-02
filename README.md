@@ -1,4 +1,4 @@
-# OpenLayers_2.13
+# OpenLayers_2.13 - Modified Google Map Layers Blank Issue
 This project is a modified version of OpenLayers 2.13, a popular open-source JavaScript library for interactive maps. The modifications have been made to address issues related to displaying Google Maps layers, which have been causing blank maps to appear due to changes in the Google Maps API.
 
 As OpenLayers 2.13 is an older version of the library, it is no longer supported and cannot be used for new map development. This modified version aims to provide a solution for those still using OpenLayers 2.13 and experiencing issues with Google Maps layers.
